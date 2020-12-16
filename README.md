@@ -7,9 +7,9 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
 
-**Modifiche ai dataset completate - [Avviso](https://github.com/pcm-dpc/COVID-19/issues/747)**<br>
-**I dati legacy, con la strutturazione delle cartelle dei vari dataset, sono disponibili nella directory "legacy" e saranno alimentate fino a venerdì 31/07**<br><br>
-**The legacy data, with the structure of the dataset folders, are available in the "legacy" directory and will be fed until Friday 31/07**<br><br>
+**Modifiche ai dataset**<br>
+**I dati caso da sospetto diagnostico e casi da screening non più erogati**<br>
+**Da mercoledì 09/12/2020 sarà aggiunto il campo "Ingressi in terapia intensiva" e "note test" e "note casi", maggiori informazioni disponibili nella [issue 980](https://github.com/pcm-dpc/COVID-19/issues/980)**<br><br>
 
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
@@ -79,11 +79,6 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
-├── legacy/
-│   ├── dati-andamento-nazionale
-│   ├── dati-json
-│   ├── dati-province
-│   ├── dati-regioni
 ├── metriche
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.csv
 │   ├── dpc-covid19-ita-metriche-dashboard-desktop.json

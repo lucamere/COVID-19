@@ -5,6 +5,45 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>15/12/2020</b><br>
+La Regione Campania al momento non ha a disposizione i dati quotidiani sugli ingressi in T.I. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 5 casi in quanto giudicati non casi COVID-19
+
+<b>14/12/2020</b><br>
+La Regione Abruzzo comunica che in seguito a ricalcolo è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La Regione Campania al momento non ha a disposizione i dati quotidiani sugli ingressi in T.I.. La Regione Emilia Romagna comunica che in seguito a ricalcolo sono stati eliminati 4 caso in quanto giudicati non casi COVID-19.
+
+<b>13/12/2020</b><br>
+La regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
+<b>12/12/2020</b><br>
+La regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
+<b>11/12/2020</b><br>
+La Regione Calabria comunica che il numero totale di tamponi del 10/12/2020 era 390.443. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La Regione Campania comunica di non potere al momento riportare i dati quotidiani sugli ingressi in T.I..
+
+<b>10/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a ricalcolo è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
+<b>09/12/2020</b><br>
+La Regione Campania comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. Il Molise comunica che il dato delle persone testate di ieri era 89.725 e non 897.250
+
+<b>08/12/2020</b><br>
+La Regione Basilicata segnala che il totale dei tampini effettuati/casi testati è in corso di revisione. La Regione Emilia Romagna segnala che dai dati comunicati nei giorni passati sono stati eliminati 5 casi in quanto giudicati non casi COVID-19.
+
+<b>07/12/2020</b><br>
+La Regione Emilia Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19
+
+<b>06/12/2020</b><br>
+La Regione Campania comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sul ingressi in terapia intensiva perchè in corso di definizione. Il Molise comunica che il dato delle persone testate di ieri era 89.725 e non 897.250
+
+<b>05/12/2020</b><br>
+La Regione Calabria comunica che in data 3 dicembre è stato ricalcolato il dato sull'incremento casi giornaliero da 280 a 294. La Regione Campania comunica che non è possibile trasmettere i dati sugli ingressi del giorno in terapia intensiva perché in corso di definizione. La PA Bolzano comunica che non è possibile trasmettere i dati sugli ingressi del giorno in terapia intensiva perchè in corso di definizione. La Regione Valle D'Aosta comunica che il dato delle persone testate del 4/12 era 34.374 e non 34.734.
+
+<b>04/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 4 casi in quanto giudicati non casi COVID-19. La PA Bolzano comunica che il dato sugli ingressi in TI del giorno al momento non è disponibile. La Regione Sardegna comunica che i dati relativi ai decessi sono comprensivi di un riallineamento dei dati. Per la Regione Valle D'Aosta è stato eseguito un riallineamento dei dati sui tamponi molecolari. I valori riportati in questo report sono aggiornati. La Regione Campania comunica che al momento non è possibile trasmettere i dati di ingressi in terapia intensiva del giorno perché in corso di definizione; in più, per mero errore di inserimento, il numero delle persone testate di ieri era 1.118.787 e non 11.187.787. La Regione Abruzzo comunica che in seguito a verifica sui dati comunicati, il totale dei casi positivi a ieri era 17.556.
+
+<b>03/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 6 casi. La Regione Campania comunica che il dato sugli ingressi in TI del giorno è in corso di definizione. La PA Bolzano comunica che il dato sugli ingressi in TI del giorno è in corso di definizione.
+
 <b>02/12/2020</b><br>
 La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi.
 
