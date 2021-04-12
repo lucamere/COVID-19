@@ -7,9 +7,13 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - Bonifica dati pregressi con codici NUTS
 - Note di analisi di data quality
 
-## Prossimo aggiornamento 2021-04-09
+## Prossimo aggiornamento 2021-04-14
 
 - Revisione della documentazione e descrizione processamento dei dati
+
+## 2021-04-12
+
+- Modifica: aggiornati shape e geojson (zippato) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata.
 
 ## 2021-04-07
 

@@ -7,9 +7,13 @@ All changes to the project, new features and information are documented in this 
 - Reclamation of previous data with NUTS codes
 - Data quality analysis notes
 
-## Next update 2021-04-09
+## Next update 2021-04-14
 
 - Documentation review and data processing description
+
+## 2021-04-12
+
+- Modification: updated shape and geojson (zipped) generalized files with the new containment measures at regionale level (red, orange, yellow and white areas), with related metadata.  
 
 ## 2021-04-07
 
